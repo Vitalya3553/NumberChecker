@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberChecker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ApiFragmentTitle">Your contact info</string>
+    <string name="ListFragmentTitle">Your contacts</string>
+    <string name="ListFragmentGetButton">Get contacts</string>
+</resources>
